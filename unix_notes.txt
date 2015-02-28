@@ -15,7 +15,6 @@ nano moving_around.txt
 cat moving_around.txt
 history > moving_around.txt
 history> moving_around.txt
-cd
 history|sort|less
 history|sort
 man|man
