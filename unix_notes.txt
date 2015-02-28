@@ -1,0 +1,238 @@
+# list the current working directory in long format
+
+ll
+
+ls ..
+ls..
+ls
+less moving_around.txt
+subl does_not_exists.txt
+nano moving_around.txt
+cat moving_around.txt
+history > moving_around.txt
+history> moving_around.txt
+cd
+history|sort|less
+history|sort
+man|man
+man man
+man less
+less
+/subl
+history|less
+history
+cd ..
+cdc ..
+cd Music
+..
+cd music
+cd /Music
+pwd
+q
+cd /Downloads
+cd /raptor1
+cd raptor1
+cd Music
+hell0-world
+ls /Applications/Sublime Text 2.app
+ls /ap
+cd ~
+la
+ll -h
+ls -h
+ls -a
+ls -1
+man ls
+ls -rlt
+ls -lt
+ls -t
+ls -r
+-r
+tl -r
+man
+r -t
+r
+r -lt
+ls -lt
+ls -l
+cd
+cd /
+cd/
+cd pwd
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git --version
+brew install git
+subl /etc/paths
+echo $PATH
+echo $EDITOR
+set -gx EDITOR 'subl -w'
+# Sublime Text
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+echo $subl
+echo $path
+subl .
+brew doctor
+subl
+suble
+brew in
+brew inf
+brewin
+fish_update_completions
+chsh -s /usr/local/bin/fish
+brew update
+bre doctor
+fish in
+ls-G
+uname
+un me
+unme
+~
+brew info fish
+fish_update_comletions
+~$
+curl -fsSL http://git.io/beJs | ruby
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew install wget
+brew help
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+git remote
+ git remote
+git log
+git status
+git init --bare raptor1
+git init
+git init <directory>
+cd~
+git remote add codefellow:/raptor1.git
+git remote add
+git remote set-url origin
+git remote set-url
+git remote add origin raptor1
+git remote add origin
+git remote add origin codefellow:raptor1/repo.git
+git pull origin master
+git remote add origin codefellow:/raptor1.git
+git push -u origin master
+remote set-url origin
+git remote -v
+git remote add origin codefellow:raptor1.git
+git remote add orgin codefellow:/raptor1.git
+cd raptor
+cd raptor1/eagle.txt
+ch raptor1/eagle.txt
+config
+ls ~/.ssh
+ls~/.ssh
+sudo rm -R polar
+sudo rm -R magnolia3003
+rm -R polar
+sudo rm -R githubtest
+cd ~/
+cd magnolia3003
+rm magnolia3003
+rm magnolia3003
+rm directory
+rm -RF polar
+rm polar
+man terminal
+rm -RF
+rm -r polar
+
+ls ~/.ssh
+rm -r githubtest
+rm ls
+rm githubtest
+ls
+ch ~/
+ch ~
+rm eagle.txt
+git branch
+git checkout master
+git push -u origin maser
+push -u origin master
+git remote add origin codefellow:justinuh/polar.git
+git commit -m "Polar commit"
+git status
+git add polar
+git add README
+git init
+touch polar
+git add README
+git README
+cd polar
+mkdir polar
+git push origin master
+git commit -m "bald eagle"
+git add rhino.txt
+git add eagle.txt
+touch eagle.txt
+eagle.txt
+touch rhino.txt
+git pull origin master
+man git-push
+push origin master
+git remote add origin codefellow:justinuh/magnolia3003.git
+git commit -m "first commit"
+touch README
+mkdir magnolia3003
+git commit -m "birds of prey"
+git commit README
+touch README
+git remote add origin codefellow:justinuh/raptor1.git
+mkdir raptor1
+cd ../
+cd../
+git push origin master
+git remote set-url origin codefellow:justinuh/githubTest.git
+ssh -T codefellow
+git remote set-url origin codefellow:justinuh/githubTest
+git remote set-url origin git@github.com:justinuh/githubTest
+git  push --set-upstream origin master
+git push origin
+git remote set url origin codefellow:justinuh/githubTest
+git config --global push.default simple
+git push origin
+git remote add origin codefellow:githubTest
+git push
+git config --global user.email justinuhh@hotmail.com
+"
+git config --global user.name "justinuh
+git config --global user.name"justinuh
+git commit -m "initial commit"
+git touch README
+git remote set-url origin codefellow:githubTest
+clear
+cd githubtest
+mkdir githubtest
+~/
+ssh codefellow
+ssh codefellows
+open -a TextEdit config
+touch config
+ssh -T -i ~/.ssh/justinmac git@github.com
+pbcopy < ~/.ssh/justinmac.pub
+man git
+defaults write com.apple.finder AppleShowAllFiles YES
+com.apple.finder AppleShowAllFiles YES
+ssh-keygen -t rsa -C "justinuhh@hotmail.com"
+cd .ssh
+mkdir .ssh
+rm test.txt
+touch test.txt
+cd justin
+mkdir justin
+mkdir
+cd desktop
+git manual
+git man
+git ma
+cd ~/Projects/boilerplate/ && vi .gitignore
+ls-la
+cd Desktop/
+cd Destop/
+$cd
+$pwd
+cd~/.ssh
