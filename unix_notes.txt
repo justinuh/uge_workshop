@@ -1,10 +1,14 @@
+#
+
 # list the current working directory in long format
 
 ll
+#list the current working directory
 
 ls ..
 ls..
 ls
+# open the file in the less pager
 less moving_around.txt
 subl does_not_exists.txt
 nano moving_around.txt
