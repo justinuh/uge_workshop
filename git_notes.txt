@@ -1,1 +1,2 @@
-git branch is label. git checkout.
+git branch is label. git checkout. branching is getting  easier
+
